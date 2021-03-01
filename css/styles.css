@@ -1,0 +1,50 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+}
+
+body {
+  background-color: #222831;
+  text-align: center;
+}
+
+h1 {
+  margin: 30px;
+  font-family: "Akaya Telivigala", cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 8rem;
+  color: #00adb5;
+}
+
+p {
+  font-size: 2rem;
+  color: #00adb5;
+  font-family: "Roboto", sans-serif;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #eeeeee;
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+}
+.btn {
+  margin-top: 3%;
+  padding: 1.5% 4%;
+  background-color: #fa1e0e; 
+  color: white;
+  font-family: "Roboto", sans-serif;
+  font-size: 1.2rem;
+  font-weight: bold;
+  letter-spacing: 8px;
+}
